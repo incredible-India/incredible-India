@@ -17,12 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![C](https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png)
-![Nodejs](https://www.cloudsavvyit.com/p/uploads/2019/07/2350564e.png?width=1198&trim=1,1&bg-color=000&pad=1,1)
-![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)
-![Django](https://www.edgica.com/wp-content/files/django-logo-big.jpg)
-![MongoDB](https://miro.medium.com/max/900/1*b0TtGI6gWFLltL1QkRxVdg.png)
-![MySql](http://codinghelptech.com/blog_post/mysql-1.jpg)
+
 
 
 
